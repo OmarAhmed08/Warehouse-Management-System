@@ -33,11 +33,11 @@ A lightweight, fully interactive web application for managing inventory, trackin
 ## 💻 Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/warehouse-management-system.git
+   git clone https://github.com/OmarAhmed08/Warehouse-Management-System.git
    ```
 2. **Navigate to the directory:**
    ```bash
-   cd warehouse-management-system
+   cd Warehouse-Management-System
    ```
 3. **Run the app:**
    Open `index.html` in any modern web browser.
@@ -48,4 +48,4 @@ A lightweight, fully interactive web application for managing inventory, trackin
 **Omar Ahmed Abdelaziz**
 - **Email:** omarahmedzizo08@gmail.com
 - **LinkedIn:** [Omar Ahmed](https://linkedin.com)
-- **GitHub:** [your-username](https://github.com)
+- **GitHub:** [@OmarAhmed08](https://github.com/OmarAhmed08)
