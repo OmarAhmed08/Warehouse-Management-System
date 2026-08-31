@@ -24,7 +24,7 @@ A lightweight, fully interactive web application for managing inventory, trackin
 ```text
 ├── store.html        # Main Application Interface
 ├── style.css         # Custom Styling & Layout
-├── main.js            # Inventory Logic & State Management
+├── main.js           # Inventory Logic & State Management
 └── README.md         # Project Documentation
 ```
 
