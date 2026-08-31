@@ -47,5 +47,5 @@ A lightweight, fully interactive web application for managing inventory, trackin
 ## 👤 Author
 **Omar Ahmed Abdelaziz**
 - **Email:** omarahmedzizo08@gmail.com
-- **LinkedIn:** [Omar Ahmed](https://linkedin.com)
+- **LinkedIn:** [Omar Ahmed](www.linkedin.com/in/omarahmed08)
 - **GitHub:** [@OmarAhmed08](https://github.com/OmarAhmed08)
